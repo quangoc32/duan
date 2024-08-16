@@ -1,0 +1,229 @@
+E:\DuAnVinCom\DuAnVinCom\bin\Debug\DuAnVinCom.exe.config
+E:\DuAnVinCom\DuAnVinCom\bin\Debug\DuAnVinCom.exe
+E:\DuAnVinCom\DuAnVinCom\bin\Debug\DuAnVinCom.pdb
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.AssemblyReference.cache
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.DangNhap.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.Form1.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.Properties.Resources.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.GenerateResource.cache
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.CoreCompileInputs.cache
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.exe
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.pdb
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QuenMatKhau.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.DoiMatKhau.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.FormAdmin.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocSinhAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QLGiaoVienAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QLPhongHocAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaGiaoVienAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemMonHocAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaHocSinhAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.FormGiaoVien.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaPhongHoc.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QLLopHocAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaLopHoc.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.QLTietHocAD.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaTietHoc.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.DiemHocSinh.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.XacNhanGiaoVien.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThaoTacGiaoVienChuNhiem.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.PhieuDiemHocSinh.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuGiaoVien.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienChuNhiem.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienBoMon.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.FormKeToan.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThubaoHiem.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.ThuHocPhi.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuKeToan.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeGiaoVien.resources
+E:\DuAnVinCom\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\bin\Debug\DuAnVinCom.exe.config
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\bin\Debug\DuAnVinCom.exe
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\bin\Debug\DuAnVinCom.pdb
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.AssemblyReference.cache
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienBoMon.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienChuNhiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.DangNhap.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.DiemHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.DoiMatKhau.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.Form1.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormAdmin.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormKeToan.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.PhieuDiemHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.Properties.Resources.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QLGiaoVienAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocSinhAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QLLopHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QLPhongHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QLTietHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.QuenMatKhau.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThaoTacGiaoVienChuNhiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemMonHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaGiaoVienAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaHocSinhAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaLopHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaPhongHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaTietHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThubaoHiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.ThuHocPhi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuKeToan.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.XacNhanGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.GenerateResource.cache
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.CoreCompileInputs.cache
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.exe
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.pdb
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormKhoi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormNam.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FornHK.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormChucVuGV.resources
+C:\Users\VTOS\Documents\Zalo Received Files\DuAnVinCom (1)\DuAnVinCom\obj\Debug\DuAnVinCom.FormPhanCongMonHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe.config
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.pdb
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.AssemblyReference.cache
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienChuNhiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DangNhap.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DiemHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DoiMatKhau.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Form1.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormAdmin.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormChucVuGV.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKeToan.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKhoi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormPhanCongMonHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormNam.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FornHK.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.PhieuDiemHocSinh.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Properties.Resources.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLGiaoVienAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocSinhAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLLopHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLPhongHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLTietHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QuenMatKhau.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThaoTacGiaoVienChuNhiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemMonHocAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaGiaoVienAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaHocSinhAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaLopHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaPhongHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaTietHoc.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThubaoHiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThuHocPhi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuAD.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuKeToan.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.XacNhanGiaoVien.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.GenerateResource.cache
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.CoreCompileInputs.cache
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.exe
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.pdb
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLKhoi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormQLNamVaKi.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLBaoHiem.resources
+C:\Users\VTOS\Documents\Zalo Received Files\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocPhi.resources
+F:\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe.config
+F:\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe
+F:\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.pdb
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.AssemblyReference.cache
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienChuNhiem.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DangNhap.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DiemHocSinh.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DoiMatKhau.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Form1.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormAdmin.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormChucVuGV.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormGiaoVien.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKeToan.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKhoi.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormPhanCongMonHoc.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormNam.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormQLNamVaKi.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeGiaoVien.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeHocSinh.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FornHK.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.PhieuDiemHocSinh.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Properties.Resources.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLBaoHiem.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLGiaoVienAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocPhi.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocSinhAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLKhoi.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLLopHocAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLPhongHocAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLTietHocAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QuenMatKhau.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThaoTacGiaoVienChuNhiem.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemMonHocAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaGiaoVienAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaHocSinhAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaLopHoc.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaPhongHoc.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaTietHoc.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThubaoHiem.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThuHocPhi.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuAD.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuGiaoVien.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuKeToan.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.XacNhanGiaoVien.resources
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.GenerateResource.cache
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.CoreCompileInputs.cache
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.exe
+F:\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.pdb
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe.config
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.exe
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\bin\Debug\DuAnVinCom.pdb
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.BangDiemGiaoVienChuNhiem.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DangNhap.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DiemHocSinh.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.DoiMatKhau.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Form1.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormAdmin.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormChucVuGV.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormGiaoVien.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKeToan.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormKhoi.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormPhanCongMonHoc.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormNam.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormQLNamVaKi.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeGiaoVien.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FormThongKeHocSinh.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.FornHK.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.PhieuDiemHocSinh.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.Properties.Resources.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLBaoHiem.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLGiaoVienAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocPhi.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLHocSinhAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLKhoi.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLLopHocAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLPhongHocAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QLTietHocAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.QuenMatKhau.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThaoTacGiaoVienChuNhiem.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemMonHocAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaGiaoVienAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaHocSinhAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaLopHoc.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaPhongHoc.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThemSuaTietHoc.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThubaoHiem.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.ThuHocPhi.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuAD.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuGiaoVien.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.TrangChuKeToan.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.XacNhanGiaoVien.resources
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.GenerateResource.cache
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.exe
+C:\Users\quang\Downloads\DuAn\duanone\DuAnVinCom\obj\Debug\DuAnVinCom.pdb

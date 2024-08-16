@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formxacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formxacnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|c:\\users\\vtos\\documents\\zalo received files\\duanone\\duanone\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|duanone||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formdoimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formdoimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\duan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\duan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43763A37-ED22-42D2-A76D-91B60C6D8304}|duanone\\duanone.csproj|solutionrelative:duanone\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.cs",
+              "RelativeDocumentMoniker": "duanone\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.cs",
+              "RelativeToolTip": "duanone\\DangNhap.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:21:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\App.config",
+              "RelativeDocumentMoniker": "duanone\\App.config",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\App.config",
+              "RelativeToolTip": "duanone\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-23T00:58:31.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.cs",
+              "RelativeDocumentMoniker": "duanone\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.cs [Design]",
+              "RelativeToolTip": "duanone\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:41:31.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormWelcome.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormWelcome.cs",
+              "RelativeDocumentMoniker": "duanone\\FormWelcome.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormWelcome.cs",
+              "RelativeToolTip": "duanone\\FormWelcome.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:56:13.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "duanone\\DangNhap.Designer.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DangNhap.Designer.cs",
+              "RelativeToolTip": "duanone\\DangNhap.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:54:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDoiMatKhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormDoiMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "duanone\\FormDoiMatKhau.Designer.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormDoiMatKhau.Designer.cs",
+              "RelativeToolTip": "duanone\\FormDoiMatKhau.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T23:53:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "duanone",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\duanone.csproj",
+              "RelativeDocumentMoniker": "duanone\\duanone.csproj",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\duanone.csproj",
+              "RelativeToolTip": "duanone\\duanone.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-22T23:50:50.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DuAn.dbml",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DuAn.dbml",
+              "RelativeDocumentMoniker": "duanone\\DuAn.dbml",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\DuAn.dbml",
+              "RelativeToolTip": "duanone\\DuAn.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-07-22T23:33:52.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormGiaoVien.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormGiaoVien.cs",
+              "RelativeDocumentMoniker": "duanone\\FormGiaoVien.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormGiaoVien.cs",
+              "RelativeToolTip": "duanone\\FormGiaoVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:44:56.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGiaoVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormGiaoVien.cs",
+              "RelativeDocumentMoniker": "duanone\\FormGiaoVien.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormGiaoVien.cs [Design]",
+              "RelativeToolTip": "duanone\\FormGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:42:35.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\Program.cs",
+              "RelativeDocumentMoniker": "duanone\\Program.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\Program.cs",
+              "RelativeToolTip": "duanone\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:41:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormXacNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormXacNhan.cs",
+              "RelativeDocumentMoniker": "duanone\\FormXacNhan.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormXacNhan.cs [Design]",
+              "RelativeToolTip": "duanone\\FormXacNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:41:31.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "duanone\\FormDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "duanone\\FormDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:41:31.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormWelcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormWelcome.cs",
+              "RelativeDocumentMoniker": "duanone\\FormWelcome.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\duanone\\FormWelcome.cs [Design]",
+              "RelativeToolTip": "duanone\\FormWelcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:41:31.469Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

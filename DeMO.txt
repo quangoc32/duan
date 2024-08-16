@@ -1,0 +1,136 @@
+create database DEMO6;
+
+USE DEMO6;
+CREATE TABLE GiaoVien (
+    MaGiaoVien NVARCHAR(10) PRIMARY KEY,
+    HoTenGiaoVien NVARCHAR(50),
+    NgaySinh DATE,
+    GioiTinh NVARCHAR(3),
+    DiaChi NVARCHAR(50),
+    TinhTrang NVARCHAR(30),
+    IsFirstHide BIT,    
+    CCCD NVARCHAR(12),
+    HinhAnh NVARCHAR(MAX)
+);
+
+CREATE TABLE ChucVu (
+    MaChucVu NVARCHAR(10) PRIMARY KEY,
+	MaGiaoVien NVARCHAR(10)  FOREIGN KEY REFERENCES GiaoVien(MaGiaoVien),
+    TenChucVu NVARCHAR(50),
+	Email NVARCHAR(50),
+    MatKhau NVARCHAR(50),
+    IsFirstOne BIT,
+);
+
+CREATE TABLE MonHoc (
+    MaMon NVARCHAR(10) PRIMARY KEY,
+    TenMonHoc NVARCHAR(50),
+);
+
+CREATE TABLE KhoiLop (
+    MaKhoi NVARCHAR(10) PRIMARY KEY,
+    TenKhoi NVARCHAR(50)
+);
+
+CREATE TABLE NamHoc (
+    MaNH NVARCHAR(10) PRIMARY KEY,
+    NamHoc NVARCHAR(50)
+);
+
+CREATE TABLE HocKy (
+    MaHK NVARCHAR(10) PRIMARY KEY,
+    TenHK NVARCHAR(50)
+);
+
+CREATE TABLE LopHoc (
+    MaLop NVARCHAR(10) PRIMARY KEY,
+    MaKhoi NVARCHAR(10) FOREIGN KEY REFERENCES KhoiLop(MaKhoi),
+    MaGiaoVien NVARCHAR(10) FOREIGN KEY REFERENCES GiaoVien(MaGiaoVien),
+    TenLop NVARCHAR(50),
+	GhiChu nvarchar(50)   
+);
+
+CREATE TABLE HocSinh (
+    MaHocSinh NVARCHAR(10) PRIMARY KEY,
+    MaLop NVARCHAR(10) FOREIGN KEY REFERENCES LopHoc(MaLop),
+    HoTen NVARCHAR(50),
+    NgaySinh DATE,
+    GioiTinh NVARCHAR(3),
+	TinhTrang nvarchar(50),
+    DiaChi NVARCHAR(50),
+    SDT_HS NVARCHAR(15),
+    SDT_PHHS NVARCHAR(15),
+    ChaHS NVARCHAR(50),
+    MeHS NVARCHAR(50),
+    HinhAnh NVARCHAR(MAX)
+);
+
+CREATE TABLE PhanCong (
+    MaGV NVARCHAR(10) FOREIGN KEY REFERENCES GiaoVien(MaGiaoVien),
+    MaMon NVARCHAR(10) FOREIGN KEY REFERENCES MonHoc(MaMon),
+    NgayBatDau DATE,
+    NgayKetThuc DATE,
+    PRIMARY KEY (MaGV, MaMon)
+);
+
+
+CREATE TABLE HocPhi (
+    MaHocPhi NVARCHAR(10) PRIMARY KEY,
+    MaHocSinh NVARCHAR(10) FOREIGN KEY REFERENCES HocSinh(MaHocSinh),
+    TrangThai NVARCHAR(30),
+    NgayThu DATE,
+    SoTien NVARCHAR(30)
+);
+
+
+CREATE TABLE BaoHiem (
+    MaBaoHiem NVARCHAR(10) PRIMARY KEY,
+    MaHocSinh NVARCHAR(10) FOREIGN KEY REFERENCES HocSinh(MaHocSinh),
+    TrangThai NVARCHAR(30),
+    LoaiBaoHiem NVARCHAR(30),
+    NgayApDung DATE,
+    SoTien NVARCHAR(30)
+);
+
+
+CREATE TABLE Diem (
+    MaSo NVARCHAR(10) PRIMARY KEY,
+    MaHocSinh NVARCHAR(10),   
+    MaNH NVARCHAR(10),
+    MaHK NVARCHAR(10),
+    MaMon NVARCHAR(10),
+    KtMieng NVARCHAR(10),
+    Kt15p NVARCHAR(10),
+    Kt15pLan2 NVARCHAR(10),
+    Kt15pLan3 NVARCHAR(10),
+    Kt1Tiet NVARCHAR(10),
+    Kt1TietLan2 NVARCHAR(10),
+    DiemThi NVARCHAR(10),
+    DiemTrungBinh NVARCHAR(10),
+    FOREIGN KEY (MaHocSinh) REFERENCES HocSinh(MaHocSinh),
+    FOREIGN KEY (MaNH) REFERENCES NamHoc(MaNH),
+    FOREIGN KEY (MaHK) REFERENCES HocKy(MaHK),
+    FOREIGN KEY (MaMon) REFERENCES MonHoc(MaMon)
+);
+
+CREATE TABLE PhongHoc (
+    MaPhongHoc NVARCHAR(10) PRIMARY KEY, -- Mã phòng học (ví dụ: A101, B205)
+    TenPhongHoc NVARCHAR(50), -- Tên phòng học (ví dụ: Phòng Tin học 1)
+    SucChua INT, -- Sức chứa tối đa 
+    TangLau NVARCHAR(10), -- Tầng lầu (ví dụ như lầu 1 ,2,3)
+);
+
+CREATE TABLE TietHoc (
+    MaTietHoc NVARCHAR(10) PRIMARY KEY,
+    MaMonHoc NVARCHAR(10) FOREIGN KEY REFERENCES MonHoc(MaMon),
+    MaLopHoc NVARCHAR(10) FOREIGN KEY REFERENCES LopHoc(MaLop),
+    MaGiaoVien NVARCHAR(10) FOREIGN KEY REFERENCES GiaoVien(MaGiaoVien),
+    MaPhongHoc NVARCHAR(10) FOREIGN KEY REFERENCES PhongHoc(MaPhongHoc),
+    Thu NVARCHAR(10),
+    Tiet INT,
+    GioBatDau TIME(0), -- Thêm cột thời gian bắt đầu (định dạng HH:MM)
+    GioKetThuc TIME(0) -- Thêm cột thời gian kết thúc (định dạng HH:MM)
+);
+
+
+

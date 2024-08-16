@@ -1,0 +1,1295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\duanone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thubaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thubaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsualophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsualophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuahocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuahocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|f:\\duanone\\duanvincom\\themsuagiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuagiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formphancongmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formphancongmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formqlnamvaki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formqlnamvaki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formthongkegiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formthongkegiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formthongkehocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formthongkehocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\fornhk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\fornhk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\phieudiemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\phieudiemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlbaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlbaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thuhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thuhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\trangchuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\trangchuad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\trangchugiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\trangchugiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\bangdiemgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\bangdiemgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\bangdiemgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\bangdiemgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formchucvugv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formchucvugv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|f:\\duanone\\duanvincom\\themsuahocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuahocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\duan1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\duan1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuaphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuaphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuatiethoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuatiethoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thaotacgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thaotacgiaovienchunhiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thubaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thubaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlbaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlbaohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\bangdiemgiaovienchunhiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\bangdiemgiaovienchunhiem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themmonhocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themmonhocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\diemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\diemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formchucvugv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formchucvugv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlphonghocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlphonghocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qllophocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qllophocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlhocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlhocsinhad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlgiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlgiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formqlnamvaki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formqlnamvaki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlgiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlgiaovienad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuagiaovienad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuagiaovienad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuahocsinhad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuahocsinhad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qlkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qlkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formphancongmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formphancongmonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themmonhocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themmonhocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qltiethocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qltiethocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formnam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\diemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\diemhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\xacnhangiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\xacnhangiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsualophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsualophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\qllophocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\qllophocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\trangchuketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\trangchuketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuatiethoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuatiethoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuaphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuaphonghoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formchucvugv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formchucvugv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsuatiethoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsuatiethoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themsualophoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themsualophoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formphancongmonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formphancongmonhoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\fornhk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\fornhk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thuhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thuhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\formgiaovien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\formgiaovien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thuhocphi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thuhocphi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\themmonhocad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\themmonhocad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|F:\\duanone\\duanvincom\\thuhocphi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E8F9DD-6DBD-48CD-976D-6CE03DDA5EBC}|DuAnVinCom\\DuAnVinCom.csproj|solutionrelative:duanvincom\\thuhocphi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemSuaHocSinhAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaHocSinhAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemSuaLopHoc.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaLopHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThubaoHiem.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThubaoHiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThubaoHiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThubaoHiem.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\ThubaoHiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\Program.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\Program.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\Program.cs*",
+              "RelativeToolTip": "DuAnVinCom\\Program.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:33:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThemSuaGiaoVienAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaGiaoVienAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaGiaoVienAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaGiaoVienAD.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaGiaoVienAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:06:40.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNam.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormNam.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormNam.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormNam.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormNam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:12:18.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPhanCongMonHoc.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormPhanCongMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:06:20.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormQLNamVaKi.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormQLNamVaKi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormQLNamVaKi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormQLNamVaKi.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormQLNamVaKi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:12:06.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormKhoi.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormKhoi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormKhoi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormKhoi.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormKhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:23:13.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormThongKeGiaoVien.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormThongKeGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormThongKeGiaoVien.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormThongKeGiaoVien.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormThongKeGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormThongKeHocSinh.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormThongKeHocSinh.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormThongKeHocSinh.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormThongKeHocSinh.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormThongKeHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FornHK.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FornHK.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FornHK.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FornHK.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FornHK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:11:49.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhieuDiemHocSinh.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\PhieuDiemHocSinh.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\PhieuDiemHocSinh.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\PhieuDiemHocSinh.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\PhieuDiemHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QLBaoHiem.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLBaoHiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLBaoHiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLBaoHiem.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\QLBaoHiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:21:05.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThuHocPhi.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThuHocPhi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\ThuHocPhi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrangChuAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\TrangChuAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\TrangChuAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\TrangChuAD.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\TrangChuAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrangChuGiaoVien.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\TrangChuGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\TrangChuGiaoVien.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\TrangChuGiaoVien.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\TrangChuGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormKhoi.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormKhoi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormKhoi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormKhoi.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormKhoi.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:26:12.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormGiaoVien.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormGiaoVien.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BangDiemGiaoVienChuNhiem.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "RelativeToolTip": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowK4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:16:46.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BangDiemGiaoVienChuNhiem.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormChucVuGV.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormChucVuGV.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormChucVuGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:27:44.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThemSuaHocSinhAD.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaHocSinhAD.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:49:56.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormKeToan.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormKeToan.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormKeToan.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormKeToan.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormKeToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormAdmin.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\Form1.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\Form1.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\Form1.cs [Design]",
+              "RelativeToolTip": "DuAnVinCom\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DuAn1.dbml",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DuAn1.dbml",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DuAn1.dbml",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\DuAn1.dbml",
+              "RelativeToolTip": "DuAnVinCom\\DuAn1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-08-06T02:24:37.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThemSuaTietHoc.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaTietHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaTietHoc.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\ThemSuaTietHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ThemSuaPhongHoc.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\ThemSuaPhongHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ThaoTacGiaoVienChuNhiem.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThaoTacGiaoVienChuNhiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThaoTacGiaoVienChuNhiem.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\ThaoTacGiaoVienChuNhiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QuenMatKhau.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThubaoHiem.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThubaoHiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThubaoHiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThubaoHiem.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThubaoHiem.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAA4wH4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:18:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormKeToan.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormKeToan.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormKeToan.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormKeToan.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormKeToan.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QLHocPhi.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLHocPhi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLHocPhi.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLHocPhi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:14:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "QLKhoi.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLKhoi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLKhoi.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLKhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:26:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QLBaoHiem.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLBaoHiem.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLBaoHiem.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLBaoHiem.cs",
+              "RelativeToolTip": "DuAnVinCom\\QLBaoHiem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:22:43.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QLHocPhi.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLHocPhi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLHocPhi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLHocPhi.cs",
+              "RelativeToolTip": "DuAnVinCom\\QLHocPhi.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:20:13.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BangDiemGiaoVienChuNhiem.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\BangDiemGiaoVienChuNhiem.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\BangDiemGiaoVienChuNhiem.Designer.cs",
+              "ViewState": "AQIAACwBAAAAAAAAAAAMwEABAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:16:53.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ThemMonHocAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemMonHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemMonHocAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\ThemMonHocAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DiemHocSinh.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DiemHocSinh.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DiemHocSinh.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\DiemHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormChucVuGV.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormChucVuGV.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormChucVuGV.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:03:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QLPhongHocAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLPhongHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLPhongHocAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLPhongHocAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "QLLopHocAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLLopHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLLopHocAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLLopHocAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "QLHocSinhAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLHocSinhAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLHocSinhAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLHocSinhAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "QLGiaoVienAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLGiaoVienAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLGiaoVienAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLGiaoVienAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormQLNamVaKi.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormQLNamVaKi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormQLNamVaKi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormQLNamVaKi.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormQLNamVaKi.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:19:54.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormGiaoVien.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormGiaoVien.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormGiaoVien.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:42:28.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QLGiaoVienAD.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLGiaoVienAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLGiaoVienAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLGiaoVienAD.cs",
+              "RelativeToolTip": "DuAnVinCom\\QLGiaoVienAD.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwCgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ThemSuaGiaoVienAD.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaGiaoVienAD.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaGiaoVienAD.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaGiaoVienAD.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaGiaoVienAD.Designer.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAowEQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:44:53.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ThemSuaHocSinhAD.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaHocSinhAD.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaHocSinhAD.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaHocSinhAD.Designer.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAowGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:58:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormAdmin.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormAdmin.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormAdmin.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "QLKhoi.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLKhoi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLKhoi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLKhoi.cs",
+              "RelativeToolTip": "DuAnVinCom\\QLKhoi.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:28:25.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormPhanCongMonHoc.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormPhanCongMonHoc.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:13:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ThemMonHocAD.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemMonHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemMonHocAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemMonHocAD.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemMonHocAD.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:42:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "QLTietHocAD.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLTietHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLTietHocAD.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\QLTietHocAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormNam.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormNam.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormNam.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormNam.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormNam.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAnwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:12:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DiemHocSinh.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DiemHocSinh.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DiemHocSinh.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\DiemHocSinh.cs",
+              "RelativeToolTip": "DuAnVinCom\\DiemHocSinh.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA4wBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "XacNhanGiaoVien.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\XacNhanGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\XacNhanGiaoVien.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\XacNhanGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ThemSuaLopHoc.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaLopHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaLopHoc.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:13:24.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "QLLopHocAD.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QLLopHocAD.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QLLopHocAD.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QLLopHocAD.cs",
+              "RelativeToolTip": "DuAnVinCom\\QLLopHocAD.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:03:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TrangChuKeToan.cs [Design]",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\TrangChuKeToan.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\TrangChuKeToan.cs",
+              "ToolTip": "C:\\Users\\VTOS\\Documents\\Zalo Received Files\\duanone\\DuAnVinCom\\TrangChuKeToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "QuenMatKhau.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\QuenMatKhau.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\QuenMatKhau.cs",
+              "RelativeToolTip": "DuAnVinCom\\QuenMatKhau.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:02:10.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DoiMatKhau.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DoiMatKhau.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\DoiMatKhau.cs",
+              "RelativeToolTip": "DuAnVinCom\\DoiMatKhau.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwDkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:30:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\DangNhap.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\DangNhap.cs",
+              "RelativeToolTip": "DuAnVinCom\\DangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:26:01.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ThemSuaTietHoc.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaTietHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaTietHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaTietHoc.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaTietHoc.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAnwIMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:48:07.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ThemSuaPhongHoc.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaPhongHoc.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:25:10.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormChucVuGV.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormChucVuGV.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormChucVuGV.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormChucVuGV.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAnwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:05:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ThemSuaTietHoc.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaTietHoc.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaTietHoc.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaTietHoc.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaTietHoc.Designer.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAnwOoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:10:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ThemSuaLopHoc.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemSuaLopHoc.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemSuaLopHoc.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemSuaLopHoc.Designer.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAIwOsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:13:41.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormPhanCongMonHoc.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormPhanCongMonHoc.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormPhanCongMonHoc.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormPhanCongMonHoc.Designer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAnwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:14:41.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FornHK.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FornHK.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FornHK.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FornHK.cs",
+              "RelativeToolTip": "DuAnVinCom\\FornHK.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAADgv4UAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:11:51.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ThuHocPhi.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThuHocPhi.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThuHocPhi.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAnwF4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:03:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormAdmin.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormAdmin.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAnwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:43:38.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FormGiaoVien.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\FormGiaoVien.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\FormGiaoVien.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\FormGiaoVien.Designer.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAnwNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:42:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ThuHocPhi.resx",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.resx",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThuHocPhi.resx",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.resx",
+              "RelativeToolTip": "DuAnVinCom\\ThuHocPhi.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-07T05:35:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ThemMonHocAD.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThemMonHocAD.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThemMonHocAD.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThemMonHocAD.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThemMonHocAD.Designer.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAnwKYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:00:35.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\Form1.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\Form1.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\Form1.cs",
+              "RelativeToolTip": "DuAnVinCom\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T02:23:18.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ThuHocPhi.Designer.cs",
+              "DocumentMoniker": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.Designer.cs",
+              "RelativeDocumentMoniker": "DuAnVinCom\\ThuHocPhi.Designer.cs",
+              "ToolTip": "F:\\duanone\\DuAnVinCom\\ThuHocPhi.Designer.cs",
+              "RelativeToolTip": "DuAnVinCom\\ThuHocPhi.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAIwLkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:13:29.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
